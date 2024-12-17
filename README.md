@@ -2,7 +2,7 @@
 
 This repository contains several examples demonstrating the use of Single Instruction, Multiple Data (SIMD) processing for various tasks. The goal is to show how SIMD operations can be leveraged for optimizing computations, particularly when working with large datasets or arrays. These examples compare the performance of traditional Python loops with SIMD-accelerated operations using NumPy and other libraries.
 
-# Table of Contents
+## Table of Contents
 1. Addition of Arrays
 2. Trigonometric Function (e.g., Sine)
 3. Matrix Multiplication
